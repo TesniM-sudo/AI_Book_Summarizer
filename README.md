@@ -154,7 +154,7 @@ This project is open source and available under the MIT License.
 
 ## Author ✍️
 
-**Tess** - IT Student at UIT, specializing in AI and Software Engineering
+**Bahrouni Tesnim** - Software engineering and information systems Student at UIT, specializing in AI 
 
 ---
 
